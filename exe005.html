@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Exerxício 005 - JS</title>
+    <style>
+        body{
+            background: steelblue;
+            font: normal 16pt Arial;
+        }
+    </style>
+</head>
+<body>
+    <h1>Primeiros passos com o DOM</h1>
+    <div id="mensagem">Clique em mim</div>
+    <p>Aqui vai o resultado</p>
+    <script>
+        var p1 = document.getElementById('mensagem');
+        window.document.write(p1.innerText);
+        var p2 = document.querySelector("div#mensagem");
+        p2.style.color = 'pink';
+        window.document.write(p2.innerText)
+    </script>
+</body>
+</html>
