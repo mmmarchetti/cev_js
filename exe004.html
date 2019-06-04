@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Exercício 004 - JS</title>
+    <style>
+        body {
+            background-color: steelblue;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+<h1>Aprendendo Manipular strings</h1>
+    <script>
+        var nome = window.prompt('Digite o seu nome: ');
+        var cont_letras = nome.length;
+        document.write(`Olá <strong>${nome}</strong>! Seu nome tem ${cont_letras} letras <br>`);
+        document.write(`Seu nome em maiúsculo fica: ${nome.toUpperCase()} <br>`);
+        document.write(`Seu nome em minúsculo: ${nome.toLocaleLowerCase()}`);
+    </script>
+</body>
+</html>
