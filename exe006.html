@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Exercício 006 - JS</title>
+    <style>
+        div#area{
+            font: normal 16pt Arial;
+            color: white;
+            background: steelblue;
+            width: 200px;
+            height: 200px;
+            line-height: 200px;
+            text-align: center;
+
+        }
+    </style>
+</head>
+<body>
+<h1> Olá Mundo!</h1>
+    <div id="area">
+        Interaja...
+    </div>
+<script>
+    var a = document.querySelector("div#area");
+    a.addEventListener('click', clicar);
+    a.addEventListener('mouseout', sair);
+    a.addEventListener('mouseenter', entrar);
+
+    function clicar() {
+        a.innerText = 'Clicou!'
+    }
+    function sair() {
+        a.innerText = 'Saiu!';
+        a.style.background = 'green'
+        
+    }
+    function entrar() {
+        a.innerText = 'Entrou!'
+
+    }
+</script>
+</body>
+</html>
