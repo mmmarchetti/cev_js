@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Exercicio 009 - JS</title>
+    <style>
+        body{
+            background: steelblue;
+            font: 14pt arial;
+            color: whitesmoke;
+        }
+    </style>
+</head>
+<body>
+    <h1>Exercício 009 - Testes condicionais</h1>
+    <label for="pais"></label><input type="text" id="pais">
+    <input type="button" value="Checar" onclick="checar()">
+    <div id="check"> </div>
+    <script>
+        var paistxt = document.querySelector('input#pais');
+        var test = document.querySelector('div#check');
+
+        function checar() {
+            var pais = paistxt.value;
+            test.innerHTML = `<p> Você vive no <strong>${pais}</strong>, </p>`;
+            if (pais !== 'Brasil'){
+                test.innerHTML += `Você é estrangeiro!`
+            }else{
+                test.innerHTML += `Você é brasileiro!`
+            }
+        }
+    </script>
+</body>
+</html>
