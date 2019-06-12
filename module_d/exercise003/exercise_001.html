@@ -7,18 +7,23 @@
 </head>
 <body>
     <header>
-        <h1>Título</h1>
+        <h1>Verificador de Idade</h1>
     </header>
     <section>
-        <div>
-            Testando
+        <div id="cabecalho">
+            Ano de Nascimento: <input id="nascimento" type="number"> <br>
+            Sexo:
+            <input name="sexo" value="feminino" type="radio"> Feminino
+            <input name="sexo" value="masculino" type="radio"> Masculino <br>
+            <input id="verificar" type="button" value="Verificar" onclick="consultar()">
+            <br>Detectamos
         </div>
         <div>
-
+            <img id="foto" src="garota.png" alt="Foto">
         </div>
     </section>
     <footer>
-        <p>&copy; marcosMmarchetti</p>
+        <p>&copy; <strong>marcosMmarchetti</strong></p>
     </footer>
     <script src="script.js"></script>
 </body>
