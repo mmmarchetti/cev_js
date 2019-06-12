@@ -2,25 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5eeb6580-f85b-49f0-9492-548cd64e7cef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/module_c/exe011.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_d/estilo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_d/exe012.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_d/exe013.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_d/exercise_001.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_d/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_d/exercise002/manha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_d/exercise002/noite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_d/exercise002/tarde.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe001.html" beforeDir="false" afterPath="$PROJECT_DIR$/module_a/exe001.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe002.html" beforeDir="false" afterPath="$PROJECT_DIR$/module_a/exe002.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe003.html" beforeDir="false" afterPath="$PROJECT_DIR$/module_a/exe003.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe004.html" beforeDir="false" afterPath="$PROJECT_DIR$/module_a/exe004.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe005.html" beforeDir="false" afterPath="$PROJECT_DIR$/module_b/exe005.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe006.html" beforeDir="false" afterPath="$PROJECT_DIR$/module_b/exe006.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe007.html" beforeDir="false" afterPath="$PROJECT_DIR$/module_b/exe007.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe008.html" beforeDir="false" afterPath="$PROJECT_DIR$/module_b/exe008.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe008.js" beforeDir="false" afterPath="$PROJECT_DIR$/module_b/exe008.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe009.html" beforeDir="false" afterPath="$PROJECT_DIR$/module_c/exe009.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe009.js" beforeDir="false" afterPath="$PROJECT_DIR$/module_c/exe009.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe010.html" beforeDir="false" afterPath="$PROJECT_DIR$/module_c/exe010.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_d/exercise002/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/module_d/exercise002/estilo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_d/exercise002/exercise_001.html" beforeDir="false" afterPath="$PROJECT_DIR$/module_d/exercise002/exercise_001.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_d/exercise002/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/module_d/exercise002/script.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,29 +21,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module_d/exercise_001.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module_d/estilo.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/module_d/script.js">
+        <entry file="file://$PROJECT_DIR$/module_d/exercise002/exercise_001.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="11" selection-start-column="11" selection-end-column="11" />
+            <state relative-caret-position="340">
+              <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module_d/exercise002/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module_d/exercise002/estilo.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -94,6 +82,9 @@
         <option value="$PROJECT_DIR$/module_d/estilo.css" />
         <option value="$PROJECT_DIR$/module_d/exercise_001.html" />
         <option value="$PROJECT_DIR$/module_d/script.js" />
+        <option value="$PROJECT_DIR$/module_d/exercise002/estilo.css" />
+        <option value="$PROJECT_DIR$/module_d/exercise002/script.js" />
+        <option value="$PROJECT_DIR$/module_d/exercise002/exercise_001.html" />
       </list>
     </option>
   </component>
@@ -120,6 +111,12 @@
               <item name="cev_js" type="462c0819:PsiDirectoryNode" />
               <item name="module_d" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cev_js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cev_js" type="462c0819:PsiDirectoryNode" />
+              <item name="module_d" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise002" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -142,12 +139,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/module_d/exercises001" />
       <recent name="$PROJECT_DIR$/module_c" />
       <recent name="$PROJECT_DIR$/module_b" />
       <recent name="$PROJECT_DIR$/module_a" />
       <recent name="$PROJECT_DIR$/module_d" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/module_d/exercise003" />
+      <recent name="$PROJECT_DIR$/module_d/exercise002" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -163,8 +163,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.exercise_001.html">
-    <configuration name="exe009.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cev_js/module_c/exe009.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.exercise_001.html (1)">
+    <configuration name="exercise_001.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cev_js/module_d/exercise002/exercise_001.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="exercise_001.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cev_js/module_d/exercises001/exercise_001.html" useBuiltInWebServerPort="true">
@@ -181,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.exercise_001.html (1)" />
         <item itemvalue="JavaScript Debug.exercise_001.html" />
         <item itemvalue="Node.js.exe013.js" />
         <item itemvalue="Node.js.exe012.js" />
         <item itemvalue="Node.js.exe011.js" />
-        <item itemvalue="JavaScript Debug.exe009.html" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +213,9 @@
       <workItem from="1560191422618" duration="5141000" />
       <workItem from="1560210481415" duration="599000" />
       <workItem from="1560213027124" duration="417000" />
-      <workItem from="1560273431607" duration="2438000" />
+      <workItem from="1560273431607" duration="3192000" />
+      <workItem from="1560299610855" duration="817000" />
+      <workItem from="1560354644237" duration="3756000" />
     </task>
     <task id="LOCAL-00001" summary="exe 002">
       <created>1559488929233</created>
@@ -243,22 +245,30 @@
       <option name="project" value="LOCAL" />
       <updated>1560174920461</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="exercises">
+      <created>1560276012486</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1560276012486</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36147000" />
+    <option name="totallyTimeSpent" value="41474000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="0" width="1370" height="744" extended-state="6" />
+    <frame x="683" y="0" width="683" height="742" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.355175" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3109756" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.24283305" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3968254" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39506173" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -398,24 +408,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module_d/estilo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_d/exercise_001.html">
+    <entry file="file://$PROJECT_DIR$/module_d/exercise001/exercise_001.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module_d/script.js">
+    <entry file="file://$PROJECT_DIR$/module_d/exercise001/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_d/exercise003/estilo.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_d/exercise001/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_d/exercise002/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_d/exercise002/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_d/exercise002/exercise_001.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
         </state>
       </provider>
     </entry>
