@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5eeb6580-f85b-49f0-9492-548cd64e7cef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module_d/exercise003/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/module_d/exercise003/estilo.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module_d/exercise003/exercise_001.html" beforeDir="false" afterPath="$PROJECT_DIR$/module_d/exercise003/exercise_001.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module_d/exercise003/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/module_d/exercise003/script.js" afterDir="false" />
@@ -17,20 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/module_d/exercise003/exercise_001.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+            <state relative-caret-position="272">
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/module_d/exercise003/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+            <state relative-caret-position="510">
+              <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -38,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/module_d/exercise003/estilo.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="323">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -82,8 +83,8 @@
         <option value="$PROJECT_DIR$/module_d/exercise002/script.js" />
         <option value="$PROJECT_DIR$/module_d/exercise002/exercise_001.html" />
         <option value="$PROJECT_DIR$/module_d/exercise003/estilo.css" />
-        <option value="$PROJECT_DIR$/module_d/exercise003/script.js" />
         <option value="$PROJECT_DIR$/module_d/exercise003/exercise_001.html" />
+        <option value="$PROJECT_DIR$/module_d/exercise003/script.js" />
       </list>
     </option>
   </component>
@@ -98,6 +99,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,22 +107,10 @@
               <item name="cev_js" type="b2602c69:ProjectViewProjectNode" />
               <item name="cev_js" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="cev_js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cev_js" type="462c0819:PsiDirectoryNode" />
-              <item name="module_d" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cev_js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cev_js" type="462c0819:PsiDirectoryNode" />
-              <item name="module_d" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise003" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -214,7 +204,8 @@
       <workItem from="1560213027124" duration="417000" />
       <workItem from="1560273431607" duration="3192000" />
       <workItem from="1560299610855" duration="817000" />
-      <workItem from="1560354644237" duration="9808000" />
+      <workItem from="1560354644237" duration="9917000" />
+      <workItem from="1560428843179" duration="4272000" />
     </task>
     <task id="LOCAL-00001" summary="exe 002">
       <created>1559488929233</created>
@@ -258,14 +249,28 @@
       <option name="project" value="LOCAL" />
       <updated>1560359680389</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="exercises">
+      <created>1560368617910</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1560368617910</updated>
+    </task>
+    <task id="LOCAL-00008" summary="exercises">
+      <created>1560368695638</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1560368695638</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47526000" />
+    <option name="totallyTimeSpent" value="51907000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="0" width="1370" height="744" extended-state="6" />
+    <frame x="627" y="0" width="739" height="742" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.1801936" />
@@ -458,22 +463,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/module_d/exercise003/estilo.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_d/exercise003/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        <state relative-caret-position="323">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module_d/exercise003/exercise_001.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        <state relative-caret-position="272">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_d/exercise003/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
         </state>
       </provider>
     </entry>
