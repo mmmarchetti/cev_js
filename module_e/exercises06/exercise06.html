@@ -2,16 +2,24 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Módulo E - Exercício</title>
+    <title>Módulo E - Exercício 06</title>
     <link rel="stylesheet" href="estilo.css"
 </head>
 <body>
     <header>
-        <h1>Corpo</h1>
+        <h1>Tábuada</h1>
     </header>
     <section>
         <div>
-            Seção
+            <p>
+                Número: <input id="numero" type="number">
+                <input id="gerartab" type="button" value="Gerar Tábuada" onclick="tabuada()">
+            </p>
+            <p>
+                <select name="tabuada" id="tabuada" size="10" multiple="multiple">
+                    <option >Resultado</option>
+                </select>
+            </p>
         </div>
     </section>
     <footer>

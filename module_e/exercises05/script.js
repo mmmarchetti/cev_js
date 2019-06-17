@@ -4,6 +4,10 @@ function contar() {
     var passo = Number(document.querySelector("input#passo").value);
     var exibe = document.querySelector("p#contagem");
 
+    if (passo<0){
+        passo *= -1;
+    }
+
     if (inicio == '' || fim == '' || passo == ''){
         exibe.innerHTML = `Impossível contar!`
     }else{
