@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5eeb6580-f85b-49f0-9492-548cd64e7cef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/module_f/testes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_e/exercises05/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/module_e/exercises05/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_e/exercises06/exercise06.html" beforeDir="false" afterPath="$PROJECT_DIR$/module_e/exercises06/exercise06.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_e/exercises06/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/module_e/exercises06/script.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,13 +15,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/module_f/testes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -65,6 +73,7 @@
         <option value="$PROJECT_DIR$/module_e/exercises06/exercise06.html" />
         <option value="$PROJECT_DIR$/module_e/exercises05/script.js" />
         <option value="$PROJECT_DIR$/module_e/exercises06/script.js" />
+        <option value="$PROJECT_DIR$/module_f/testes.js" />
       </list>
     </option>
   </component>
@@ -78,6 +87,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -88,19 +98,12 @@
             <path>
               <item name="cev_js" type="b2602c69:ProjectViewProjectNode" />
               <item name="cev_js" type="462c0819:PsiDirectoryNode" />
-              <item name="module_e" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cev_js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cev_js" type="462c0819:PsiDirectoryNode" />
-              <item name="module_e" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises06" type="462c0819:PsiDirectoryNode" />
+              <item name="module_f" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -144,7 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.exercise06.html">
+  <component name="RunManager" selected="Node.js.testes.js">
     <configuration name="exercise04.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cev_js/module_e/exercises04/exercise04.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -154,19 +157,19 @@
     <configuration name="exercise06.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cev_js/module_e/exercises06/exercise06.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="ambiente.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="ambiente.js" working-dir="$PROJECT_DIR$/module_e">
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$/module_e/exercises04">
       <method v="2" />
     </configuration>
-    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$/module_e/exercises04">
+    <configuration name="testes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="testes.js" working-dir="$PROJECT_DIR$/module_f">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.testes.js" />
         <item itemvalue="JavaScript Debug.exercise06.html" />
         <item itemvalue="JavaScript Debug.exercise05.html" />
         <item itemvalue="JavaScript Debug.exercise04.html" />
         <item itemvalue="Node.js.script.js" />
-        <item itemvalue="Node.js.ambiente.js" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +203,9 @@
       <workItem from="1560428843179" duration="4993000" />
       <workItem from="1560449491022" duration="1947000" />
       <workItem from="1560532087283" duration="5647000" />
-      <workItem from="1560776218809" duration="11911000" />
+      <workItem from="1560776218809" duration="12535000" />
+      <workItem from="1560865160242" duration="1198000" />
+      <workItem from="1560875468463" duration="3624000" />
     </task>
     <task id="LOCAL-00001" summary="exe 002">
       <created>1559488929233</created>
@@ -272,21 +277,28 @@
       <option name="project" value="LOCAL" />
       <updated>1560792359896</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="exercises">
+      <created>1560797982502</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1560797982502</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72133000" />
+    <option name="totallyTimeSpent" value="77579000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="0" width="1370" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2717796" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20625466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4232715" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2951096" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40778342" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -537,6 +549,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="371">
           <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_f/testes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
         </state>
       </provider>
     </entry>
