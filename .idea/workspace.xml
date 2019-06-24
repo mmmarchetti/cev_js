@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5eeb6580-f85b-49f0-9492-548cd64e7cef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/module_f/exercise07/estilo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_f/exercise07/exercise07.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_f/exercise07/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_e/exercises04/exercise04.html" beforeDir="false" afterPath="$PROJECT_DIR$/module_e/exercises04/exercise04.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_f/exercise07/exercise07.html" beforeDir="false" afterPath="$PROJECT_DIR$/module_f/exercise07/exercise07.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_f/exercise07/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/module_f/exercise07/script.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,8 +20,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/module_f/exercise07/exercise07.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+            <state relative-caret-position="352">
+              <caret line="22" column="69" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -31,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/module_f/exercise07/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            <state relative-caret-position="372">
+              <caret line="39" column="58" lean-forward="true" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -91,8 +89,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="739" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="732" />
     <option name="height" value="742" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -226,7 +224,8 @@
       <workItem from="1560776218809" duration="12535000" />
       <workItem from="1560865160242" duration="1198000" />
       <workItem from="1560875468463" duration="3731000" />
-      <workItem from="1560947957498" duration="3317000" />
+      <workItem from="1560947957498" duration="3402000" />
+      <workItem from="1561404246617" duration="5935000" />
     </task>
     <task id="LOCAL-00001" summary="exe 002">
       <created>1559488929233</created>
@@ -312,29 +311,36 @@
       <option name="project" value="LOCAL" />
       <updated>1560882910867</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="exercises">
+      <created>1560953223776</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1560953223776</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81003000" />
+    <option name="totallyTimeSpent" value="87023000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="739" height="742" extended-state="0" />
+    <frame x="0" y="0" width="732" height="742" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.19382022" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19359642" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2951096" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40778342" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40609136" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34738618" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3633157" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3288364" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -593,15 +599,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/module_f/exercise07/exercise07.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        <state relative-caret-position="352">
+          <caret line="22" column="69" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module_f/exercise07/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        <state relative-caret-position="372">
+          <caret line="39" column="58" lean-forward="true" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
         </state>
       </provider>
     </entry>
