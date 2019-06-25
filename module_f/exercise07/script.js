@@ -20,14 +20,13 @@ function adicionar() {
     }else{
         analise.innerHTML = `<p></p>`;
         if (num_list.length === 0){
-            num_list.push(num);
             campo_numeros.innerHTML = `<option> Valor ${num} adicionado.</option>`;
-            txtnumero.value = ''
         }else{
-            num_list.push(num);
             campo_numeros.innerHTML += `<option> Valor ${num} adicionado.</option>`;
-            txtnumero.value = ''
         }
+        num_list.push(num);
+        txtnumero.value = '';
+        txtnumero.focus();
     }
 }
 

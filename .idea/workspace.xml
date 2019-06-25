@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5eeb6580-f85b-49f0-9492-548cd64e7cef" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_f/exercise07/exercise07.html" beforeDir="false" afterPath="$PROJECT_DIR$/module_f/exercise07/exercise07.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_f/exercise07/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/module_f/exercise07/estilo.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module_f/exercise07/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/module_f/exercise07/script.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,7 +20,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/module_f/exercise07/exercise07.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
+            <state relative-caret-position="267">
               <caret line="22" column="69" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
             </state>
           </provider>
@@ -29,8 +29,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/module_f/exercise07/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="39" column="58" lean-forward="true" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
+            <state relative-caret-position="270">
+              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module_f/exercise07/estilo.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -85,12 +94,13 @@
         <option value="$PROJECT_DIR$/module_f/testes.js" />
         <option value="$PROJECT_DIR$/module_e/exercises04/exercise04.html" />
         <option value="$PROJECT_DIR$/module_f/exercise07/exercise07.html" />
+        <option value="$PROJECT_DIR$/module_f/exercise07/estilo.css" />
         <option value="$PROJECT_DIR$/module_f/exercise07/script.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="732" />
+    <option name="width" value="858" />
     <option name="height" value="742" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -225,7 +235,8 @@
       <workItem from="1560865160242" duration="1198000" />
       <workItem from="1560875468463" duration="3731000" />
       <workItem from="1560947957498" duration="3402000" />
-      <workItem from="1561404246617" duration="5935000" />
+      <workItem from="1561404246617" duration="6357000" />
+      <workItem from="1561488006929" duration="1813000" />
     </task>
     <task id="LOCAL-00001" summary="exe 002">
       <created>1559488929233</created>
@@ -318,17 +329,31 @@
       <option name="project" value="LOCAL" />
       <updated>1560953223776</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="exercises">
+      <created>1561416714639</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1561416714640</updated>
+    </task>
+    <task id="LOCAL-00015" summary="exercises">
+      <created>1561417098664</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1561417098664</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87023000" />
+    <option name="totallyTimeSpent" value="89258000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="732" height="742" extended-state="0" />
+    <frame x="0" y="0" width="858" height="742" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.19359642" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19285183" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -580,9 +605,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module_f/exercise07/estilo.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/module_e/exercises04/exercise04.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -597,17 +619,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/module_f/exercise07/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/module_f/exercise07/exercise07.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="267">
           <caret line="22" column="69" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module_f/exercise07/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="39" column="58" lean-forward="true" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
+        <state relative-caret-position="270">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
         </state>
       </provider>
     </entry>
