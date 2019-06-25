@@ -25,9 +25,9 @@ function adicionar() {
             campo_numeros.innerHTML += `<option> Valor ${num} adicionado.</option>`;
         }
         num_list.push(num);
-        txtnumero.value = '';
         txtnumero.focus();
     }
+    txtnumero.value = '';
 }
 
 function finalizar() {
@@ -36,8 +36,8 @@ function finalizar() {
     }else{
         let soma = 0;
 
-        for (let i=0; i<num_list.length; i++){
-            soma += num_list[i]
+        for (let pos in num_list){
+            soma += num_list[pos]
         }
         let media = soma / num_list.length;
 
